@@ -1,0 +1,27 @@
+
+nav{
+	display: flex;
+	
+	
+}
+
+.nav-right{
+	margin-left: auto;
+
+
+}
+
+
+ul{
+	display: flex;
+	list-style-type: none;
+	margin: 0;
+
+}
+li{
+	padding: 10px;
+}
+
+
+
+
