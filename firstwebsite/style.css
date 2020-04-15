@@ -1,27 +1,61 @@
 
-nav{
+/******navigation bar****************/
+header{
+	
+	background-color: #353054;
+    
+}
+
+
+
+nav {
 	display: flex;
-	
-	
+	color: white;	
 }
 
-.nav-right{
+.nav-right {
 	margin-left: auto;
-
-
 }
 
 
-ul{
+ul {
+
 	display: flex;
 	list-style-type: none;
 	margin: 0;
 
 }
-li{
+
+li {
 	padding: 10px;
 }
+/*********End of navigation***************/
 
+/************welcome***************/
+.welcomebox p {
+	font-size: 1em;
+	
+}
 
+.welcome{
+	text-align: center;
+	color: #353054
 
+}
+
+.welcomesign{
+	color: #353054;
+	font-size: 3em;
+	
+}
+
+.getstarted{
+
+	
+}
+/*********body********/
+
+body{
+	margin: 0;
+}
 
