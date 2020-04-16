@@ -32,9 +32,9 @@ li {
 /*********End of navigation***************/
 
 /************welcome***************/
+
 .welcomebox p {
 	font-size: 1em;
-	
 }
 
 .welcome{
@@ -48,14 +48,48 @@ li {
 	font-size: 3em;
 	
 }
+.get-started{
 
-.getstarted{
-
-	
 }
+
+
 /*********body********/
 
 body{
 	margin: 0;
 }
+/*******************About*********************/
+.aboutcube{
+	text-align: center;
+}
+.aboutcube-header h3{
+	margin-bottom: 20px;
+	font-size: 2.4em;
 
+}
+
+h3{
+	display: block;
+	font-weight: bold;
+	color: #353054;
+
+}
+p{
+	display: block;
+
+}
+.about-container{
+	display: flex;
+	flex-direction: row;
+	background-color: lightgrey;
+}
+.fa .fas{
+	font-weight: 900;
+	color: #353054;
+	f2b5
+
+}
+.fa .fas {
+	font-family: 
+}
+/************get to know us************/
