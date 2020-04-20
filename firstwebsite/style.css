@@ -93,3 +93,20 @@ p{
 	font-family: 
 }
 /************get to know us************/
+.get-to-know-us{
+
+}
+.team-members h1{
+	display: flex;
+	justify-content: center;
+
+}
+.teamimage{
+     display: flex;
+     flex-direction: row;
+}
+.member{
+	  display: block;
+      text-align: center;
+
+}
